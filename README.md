@@ -1,4 +1,6 @@
-# 学习笔记：数据分析相关库
+# 学习笔记：
+    笔记在后缀为ipynb文件中，用jupyter编写。
+## 数据分析相关库
 1. matplotlib
 2. numpy
 3. pandas
